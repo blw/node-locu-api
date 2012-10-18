@@ -8,6 +8,9 @@ var lapi = new LocuAPI({key: key.key});
 var searchParams = {
     name : 'coffee'
   , locality : 'San Francisco'
+  , latitude : 37.789
+  , longitude : -122.409
+  , radius : 1000
 };
 
 var venueParams = {
