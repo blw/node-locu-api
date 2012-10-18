@@ -1,5 +1,5 @@
 {
-  "name": "node-google-api",
+  "name": "node-locu-api",
   "description": "Wrapper for Locu APIs in Node",
   "version": "0.0.1",
   "dependencies": {
